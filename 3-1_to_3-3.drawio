@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-11-01T22:44:03.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ytT9mzbZx6KuoDTOxx0X" version="22.0.8" type="github">
-  <diagram name="Page-1" id="Ciw9cG080GeWcuIZ2MZ9">
+<mxfile host="app.diagrams.net" modified="2023-11-01T22:50:12.832Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="2-WPhlLHaqyZ_5_oLmFi" version="22.0.8" type="github" pages="2">
+  <diagram name="3-1" id="Ciw9cG080GeWcuIZ2MZ9">
     <mxGraphModel dx="1495" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -81,6 +81,23 @@
         </mxCell>
         <mxCell id="lW4FbozZwFS7NfOg_uhb-25" value="min_value =&amp;nbsp; num3" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GdcommcFl87SUbQiEFs1" name="3-2">
+    <mxGraphModel dx="645" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TuYZfj6VlRPmbQLX2GUS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" edge="1" parent="1" source="TuYZfj6VlRPmbQLX2GUS-1" target="TuYZfj6VlRPmbQLX2GUS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TuYZfj6VlRPmbQLX2GUS-1" value="&lt;div&gt;Ask for three integer values to user&lt;/div&gt;&lt;div&gt;num1, num2, num3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TuYZfj6VlRPmbQLX2GUS-2" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;rounded=0;labelBackgroundColor=default;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
